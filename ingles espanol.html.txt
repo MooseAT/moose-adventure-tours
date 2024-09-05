@@ -1,0 +1,3 @@
+<div class="language-switch">
+    <a href="index_en.html">English</a> | <a href="index.html">Español</a>
+</div>
